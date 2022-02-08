@@ -13,6 +13,15 @@ There are some trends to be observed too:
 
 ![image](https://user-images.githubusercontent.com/36766602/152906128-c088d465-b010-480c-b03d-24ad3f41eed7.png)
 
+Consider also the following and you can see how lopsided the rides and percentage of rides/drivers by city are in rural areas as compared to more urban areas:
+
+![image](https://user-images.githubusercontent.com/36766602/152906887-26cf77e3-291b-49f3-b48d-43f4397e7894.png)
+
+![image](https://user-images.githubusercontent.com/36766602/152906966-213edf75-72f6-4cc3-b406-bc934edc2262.png)
+
+![image](https://user-images.githubusercontent.com/36766602/152907021-02efaa4a-7e51-4ea6-96b5-2270c78c2004.png)
+
+
 
 ## Summary
 The following are some of the areas where this data can be utilized:
